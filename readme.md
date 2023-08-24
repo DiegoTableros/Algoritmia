@@ -13,4 +13,6 @@ Algunos *highlights* de estos códigos son:
 Los jueces virtuales donde puedes entrenar/consultar los problemas a los que estos códigos son solución son:
 - [Omegaup](https://omegaup.com). Es un sitio para comenzar con la programación competitiva en español. Aproximadamente un *60%* de las soluciones son de este sitio. Altamente recomendado por la calidad de problemas y retroalimentación, además de contar con una amplia actividad de estudiantes mexicanos (entre otros paises) que se preparan para la OMI, IOI e ICPC.
 - [UVa](https://onlinejudge.org). Este sitio es la principal propuesta para entrenar en el libro *Competitive Programming III* de *Steven & Felix Halim*. Contiene muchísimos problemas de calidad (en inglés) que tienen un nivel de complejidad orientado a ICPC.
-- [CodeForces](https://codeforces.com)
+- [CodeForces](https://codeforces.com). La comunidad de programación competitiva en todo el mundo se reune para realizar *contest* periódicos para subir tu nivel, además de proveer un *gym* con problemas pasados de ediciones de ICPC e IOI; altamente recomendable.
+
+Entonces, espero que leer alguna solución te parezca interesante y si tienes dudas sobre alguna de ellas no dudes en contactarme :)
